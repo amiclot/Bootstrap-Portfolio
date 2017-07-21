@@ -68,13 +68,25 @@ p{
 }
 
 .nameBox{
-	float:left;
+	float: left;
 	background-color: #4aaaa5;
-	color:#ffffff;
-	margin: 0 auto;
+	color: #ffffff;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	padding: 1%;
 	font-weight: 900;
+	font-size: 28px;
+	margin-left: 4%;
+
 
 
 }
+
+.paddingTop{
+	padding-top: .5%;
+}
+
+.widthThird{
+	max-width: 30%;
+	float: right;
+}
+
