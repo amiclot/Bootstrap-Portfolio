@@ -1,12 +1,9 @@
 .portfolioImage{
 	float: left;
-	margin: 4%;
-	height: 30%;
+	margin: 4% 4% 0% 4%;
+
 }
 
-.portfolioBox{
-	margin-left: 3%;
-}
 
 .imageText{
 	background-color: #4aaaa5;
@@ -14,9 +11,18 @@
 	text-align: center;
 	padding-top: 5%;
 	padding-bottom: 5%;
+	margin: 0px;
 	position: relative;
 	bottom: 100px;
-	margin: 0px;
+
+}
+
+.zeroPaddingRight{
+	padding-right: 0;
+}
+
+.zeroPaddingLeft{
+	padding-left: 0;
 }
 
 
